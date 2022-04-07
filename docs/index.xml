@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://guill-mh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://guill-mh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Onboarding</title>
+      <link>https://guill-mh.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://guill-mh.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Para comenzar en este viaje es necesario saber que herramientas vamos a emplear para lograr nuestro objetivo.</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>https://guill-mh.github.io/my_launchx_blog/pages/about/</link>
