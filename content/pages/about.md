@@ -9,8 +9,8 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Mi nombre es Guillber Mendez, tengo 22 años
-> Soy Mexicano y radico en el estado de puebla
+> Mi nombre es Guillber Mendez, tengo 22 años,
+> Soy Mexicano y radico en el estado de puebla,
 > Actualmente estoy apunto de terminar mi Ing en Desarrollo y Gestion de Software
 
 **Mis metas** Hace mucho tiempo que empeze en el mundo de la programacion, si mal no lo recuerdo casi ya tres años
