@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://guill-mh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://guill-mh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Actividad Extra Live 2</title>
+      <link>https://guill-mh.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://guill-mh.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Resumen En la actividad extra realizamos una recopilacion de lo hemos venidos haceindo, primero creamos un fork es decir una copia de ese repositorio(Latin Experts Experts), despues de eso identificamos en que lenguaje esta escrito si bien github tiene una herremienta con la que te indica que tanto porcentaje contiene tu proyecto de cada lenguaje en que fue construido, en este caso marcaba 100% sell pero lo cierto es que es construido con hugo,y como lenjuague GO, vimos los commits que tenia, se logro correr este proyecto en nuestra maquina local, en resumen vimos comandos importantes de Git, analizamos el proyecto, todo esto sirve para cuando se requiera trabajr en un proyecto Open Source.</description>
+    </item>
+    
     <item>
       <title>FrontEnd Mission</title>
       <link>https://guill-mh.github.io/my_launchx_blog/posts/post_1/</link>
@@ -25,15 +34,6 @@
       <description>¡¡Hola!!
 para mi la cultura de un desarrollador de software se basa en lo siguiente:
  Respeto Comunicacion Resilencia Paciencia  Considero que esto es muy importante para mi y para las personas que son programadores cada uno de los puntos anteriores se complementan entre si, sobre todo una buna comunicacion con el debido respeto, esto te ara crecer como persona y podras desarrollar tus skill&amp;rsquo;s blandas.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://guill-mh.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://guill-mh.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description></description>
     </item>
     
     <item>
