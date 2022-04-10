@@ -1,7 +1,7 @@
 ---
 title: "FrontEnd Mission"
 date: 2022-04-06
-description: 'Herramientas para el desarrollo'
+description: 'Resumen de lo que vimos en la mision FrontEnd'
 ---
 
 Que aprendi en la mision el frontend?, pues bien en el transcurso de esa mision aprendi las bases para crear una landing page HTML,CSS Y JS
